@@ -7,4 +7,5 @@ A4_KankariaDevang.py -> my code for this Data Visualization Assignment 4.
 The Output -> Depicts the statis output for my Visualization.
 
 The Video -> is a comprehensive explaining by me which covers all the Data Visualization plots and the technical details associated with them.
-Incase the video here is inaccessible, please follow this: https://drive.google.com/file/d/11vFls5p10Q1r1_XFs9Q6cffFIOwUt1rr/view?usp=share_link
+Incase the video here is inaccessible, please follow this: 
+https://drive.google.com/file/d/11vFls5p10Q1r1_XFs9Q6cffFIOwUt1rr/view?usp=share_link
