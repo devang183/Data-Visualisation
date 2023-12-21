@@ -16,7 +16,7 @@ import plotly.express as px
 
 pd.set_option('display.max_columns', None)
 
-df = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/spotify_songs.csv")
+df = pd.read_csv("spotify_songs.csv")
 
 # fig1 = px.sunburst(
 #     df.groupby(['track_artist', 'track_name']).track_popularity.mean().sort_values(ascending=False).reset_index()[:100],
